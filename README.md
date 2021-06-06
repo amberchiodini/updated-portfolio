@@ -1,9 +1,8 @@
 ## Description: 
 I created a portfolio using HTML, CSS, & JavaScript by following [Ania's Tutorial](https://github.com/kubowania/responsive-portfolio). It gave me a good starting point since I was unhappy with the portfolio that I created during coding bootcamp. Will be updating it with better features in the future!
 
-## Appearance:
-
 ## Link to Deployed App:
+https://amberchiodini.github.io/updated-portfolio/
 
 ## License:
 Copyright (c) 2021 Amber Chiodini.
