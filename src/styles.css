@@ -3,7 +3,6 @@ body {
 }
 
 section {
-    height: 500px;
     background-color: white;
     border: solid black 1px;
 }
@@ -48,6 +47,9 @@ h1 {
     margin: 0;
 }
 
+h2 {
+    font-size: 50px;
+}
 p {
     margin: 0;
     font-size: 30px;
@@ -88,4 +90,20 @@ p {
 .logo {
     height: 200px;
     margin: 30px;
+}
+
+.sub-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+
+.headshot {
+    width: 300px;
+    border-radius: 150px;
+}
+
+.headshot-container {
+    display: flex;
+    align-items: center;
 }
