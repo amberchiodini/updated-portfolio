@@ -41,9 +41,9 @@ nav {
 ul {
     display: flex;
     list-style-type: none;
-    width: 600px;
+    width: 500px;
     justify-content: space-around;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 li {
